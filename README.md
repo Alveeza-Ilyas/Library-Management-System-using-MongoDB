@@ -14,7 +14,7 @@ A robust Library Management System designed to streamline library operations, ma
 * **MongoDB Integration:** Flexible and scalable document-based data storage.
 * **Search Functionality:** Quickly search books by title, author, or category.
 
----
+
 
 ## Tech Stack
 
@@ -22,7 +22,7 @@ A robust Library Management System designed to streamline library operations, ma
 * **Database Management:** MongoDB Compass
 * **Version Control:** Git & GitHub
 
----
+
 
 ## Setup & Installation
 
@@ -30,14 +30,14 @@ A robust Library Management System designed to streamline library operations, ma
 ```bash
 git clone https://github.com/Alveeza-Ilyas/Library-Management-System-using-MongoDB.git
 
-```
+
 
 
 2. **Navigate to the project directory:**
 ```bash
 cd Library-Management-System-using-MongoDB
 
-```
+
 
 
 3. **Database Configuration:**
@@ -45,7 +45,7 @@ cd Library-Management-System-using-MongoDB
 
 
 
----
+
 
 ## Database Schema
 

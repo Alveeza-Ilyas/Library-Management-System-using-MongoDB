@@ -1,6 +1,7 @@
 # 📚 Library Management System using MongoDB
 
 A robust Library Management System designed to streamline library operations, manage book inventories, track member records, and handle borrowing/returning workflows using MongoDB.
+<img width="1896" height="898" alt="image" src="https://github.com/user-attachments/assets/e7d523aa-a1e7-423b-8d36-ff7433da370c" />
 
 ---
 

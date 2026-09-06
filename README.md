@@ -6,7 +6,7 @@ A robust Library Management System designed to streamline library operations, ma
 
 ---
 
-## 🚀 Features
+## Features
 
 * **Book Management:** Add, update, view, and remove books with details like title, author, category, ISBN, and availability.
 * **Member Management:** Register new members, manage user profiles, and track active memberships.
@@ -16,7 +16,7 @@ A robust Library Management System designed to streamline library operations, ma
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Database:** MongoDB
 * **Database Management:** MongoDB Compass
@@ -24,7 +24,7 @@ A robust Library Management System designed to streamline library operations, ma
 
 ---
 
-## ⚙️ Setup & Installation
+## Setup & Installation
 
 1. **Clone the repository:**
 ```bash
@@ -47,7 +47,7 @@ cd Library-Management-System-using-MongoDB
 
 ---
 
-## 🗄️ Database Schema
+## Database Schema
 
 * **`books`:** Stores book information (`title`, `author`, `isbn`, `category`, `copies`).
 * **`members`:** Stores member details (`name`, `email`, `phone`, `join_date`).
